@@ -51,9 +51,9 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
--** Google Sheet** -  ( Used for basic data manipulation, cleanup, and filtering the initial dataset )
--**SQL** -  ( Complex data transformation, including the use of Common Table Expressions (CTEs), Joins, and advanced Filtering to create analytical views (e.g., aggregating cancellation reasons )
--**Power BI** -  ( Creation of the final interactive dashboard and Key Performance Indicator (KPI) tracking )
+- **Google Sheet** -  ( Used for basic data manipulation, cleanup, and filtering the initial dataset )
+- **SQL** -  ( Complex data transformation, including the use of Common Table Expressions (CTEs), Joins, and advanced Filtering to create analytical views (e.g., aggregating cancellation reasons )
+- **Power BI** -  ( Creation of the final interactive dashboard and Key Performance Indicator (KPI) tracking )
 - **GitHub** -  ( Repository for storing all project files, including SQL scripts and the Power BI file )
 
 ---
