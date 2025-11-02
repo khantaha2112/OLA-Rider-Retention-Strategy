@@ -26,13 +26,12 @@ This project analyzes **100,000 rows** of OLA ride-hailing data to evaluate key 
 ---
 <h2><a class="anchor" id="🛑 The Core Business Problem"></a>Business Problem</h2>
 
-High cancellation rates (both customer and driver-initiated) and inconsistent service quality directly impact OLA's revenue and market share. The analysis aims to address the following pain points::
+High cancellation rates (both customer and driver-initiated) and inconsistent service quality directly impact OLA's revenue and market share. The analysis aims to address the following pain points:
 - **Revenue Leakage:** Unsuccessful bookings (cancellations and incomplete rides) result in lost revenue opportunities.
 - **Customer Churn:** Frequent or unexplained cancellations lead to customer dissatisfaction and a high probability of customers switching to competitors.
 - **Driver Dissatisfaction:** Inefficient routing, low ratings, or unfair cancellation penalties can lead to driver churn, reducing the overall fleet supply.
 - **ISub-optimal Fleet Performance:** Lack of clarity on which vehicle types (e.g., Mini, Sedan, Prime) are most profitable or efficient prevents optimized resource allocation and pricing.
 
----
 ---
 <h2><a class="anchor" id="🔎Key Analytical Areas Addressed by the OLA Project"></a>Key Analytical Areas </h2>
 
@@ -52,10 +51,10 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- SQL (Common Table Expressions, Joins, Filtering)
-- Python (Pandas, Matplotlib, Seaborn, SciPy)
-- Power BI (Interactive Visualizations)
-- GitHub
+- Google Sheet ( Used for basic data manipulation, cleanup, and filtering the initial dataset )
+- Python ( Complex data transformation, including the use of Common Table Expressions (CTEs), Joins, and advanced Filtering to create analytical views (e.g., aggregating cancellation reasons )
+- Power BI ( Creation of the final interactive dashboard and Key Performance Indicator (KPI) tracking )
+- GitHub  ( Repository for storing all project files, including SQL scripts and the Power BI file )
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
