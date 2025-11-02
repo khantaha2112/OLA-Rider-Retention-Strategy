@@ -1,4 +1,4 @@
-# 🚕 OLA Rider Retention Strategy: Data Analysis Project
+# 🚕 OLA Rider Retention Strategy : Data Analysis Project
 
 _Analyze ride-hailing data to understand key factors influencing booking success, cancellation rates, and revenue, ultimately leading to a data-driven Rider Retention Strategy for OLA in Bengaluru._
 
