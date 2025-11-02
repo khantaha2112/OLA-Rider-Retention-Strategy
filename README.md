@@ -74,3 +74,19 @@ OLA-Rider-Retention-Strategy/
     ├── Ola_Cancellations_Analysis.png        (Visual for Step 4: Cancellation Analysis)
     └── Ola_Ratings_Overview.png              (Visual for Step 5: Ratings Overview)
 ```
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>📈 OLA Bookings and Cancellation Metrics</h2>
+
+**1. Key Performance Indicators (KPIs) :**
+- Total Bookings: $\text{100,000}$ (Total number of ride requests received).
+- Total Booking Value: $\text{26.97M}$ (Total revenue generated from all successful bookings).
+- Successful Rides: $\text{26,924}$ ($\text{100,000}$ Total Bookings minus $\text{73,076}$ Total Cancellations).
+
+**❌ Cancellation Breakdown :**
+- Total Cancellations: $\text{73,076}$ (Total count of rides canceled, both driver and customer).
+- Driver-Cancelled Rides: $\text{45,416}$ (Represents $\text{62.15\%}$ of all cancellations, making it the primary cause of lost revenue).
+- Customer-Cancelled Rides: $\text{22,530}$ (The count of rides canceled by the customer).
+
+**⭐ Service Quality Metrics:**
+- Overall Driver Rating: $\text{4.30}$
+- Overall Customer Rating: $\text{4.01}$
+---
