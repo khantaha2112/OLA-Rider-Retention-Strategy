@@ -76,7 +76,7 @@ OLA-Rider-Retention-Strategy/
 ```
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>📈 OLA Bookings and Cancellation Metrics</h2>
 
-**1. Key Performance Indicators (KPIs) :**
+**🎯 Key Performance Indicators (KPIs) :**
 - Total Bookings: $\text{100,000}$ (Total number of ride requests received).
 - Total Booking Value: $\text{26.97M}$ (Total revenue generated from all successful bookings).
 - Successful Rides: $\text{26,924}$ ($\text{100,000}$ Total Bookings minus $\text{73,076}$ Total Cancellations).
