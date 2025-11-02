@@ -58,3 +58,13 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+├── OLA Data Analyst Project - README.md 
+├── OLA_Booking_Data.csv (The 100,000 row dataset)
+├── OLA_SQL_Queries.sql (All 10 Queries & View Creation)
+├── OLA_PowerBI_Dashboard.pbix (Power BI project file)
+└── Visualizations/
+    ├── Booking_Status_Breakdown.png
+    └── Top_5_Customers_Leaderboard.png
+```
