@@ -51,10 +51,10 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- Google Sheet ( Used for basic data manipulation, cleanup, and filtering the initial dataset )
-- SQL ( Complex data transformation, including the use of Common Table Expressions (CTEs), Joins, and advanced Filtering to create analytical views (e.g., aggregating cancellation reasons )
-- Power BI ( Creation of the final interactive dashboard and Key Performance Indicator (KPI) tracking )
-- GitHub  ( Repository for storing all project files, including SQL scripts and the Power BI file )
+-** Google Sheet** -  ( Used for basic data manipulation, cleanup, and filtering the initial dataset )
+-** SQL** -  ( Complex data transformation, including the use of Common Table Expressions (CTEs), Joins, and advanced Filtering to create analytical views (e.g., aggregating cancellation reasons )
+-** Power BI** -  ( Creation of the final interactive dashboard and Key Performance Indicator (KPI) tracking )
+- **GitHub ** -  ( Repository for storing all project files, including SQL scripts and the Power BI file )
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
@@ -77,16 +77,16 @@ OLA-Rider-Retention-Strategy/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>📈 OLA Bookings and Cancellation Metrics</h2>
 
 **🎯 Key Performance Indicators (KPIs) :**
-- Total Bookings: $\text{100,000}$ (Total number of ride requests received).
-- Total Booking Value: $\text{26.97M}$ (Total revenue generated from all successful bookings).
-- Successful Rides: $\text{26,924}$ ($\text{100,000}$ Total Bookings minus $\text{73,076}$ Total Cancellations).
+- **Total Bookings:** $\text{100,000}$ (Total number of ride requests received).
+- **Total Booking Value:** $\text{26.97M}$ (Total revenue generated from all successful bookings).
+- **Successful Rides:** $\text{26,924}$ ($\text{100,000}$ Total Bookings minus $\text{73,076}$ Total Cancellations).
 
 **❌ Cancellation Breakdown :**
-- Total Cancellations: $\text{73,076}$ (Total count of rides canceled, both driver and customer).
-- Driver-Cancelled Rides: $\text{45,416}$ (Represents $\text{62.15\%}$ of all cancellations, making it the primary cause of lost revenue).
-- Customer-Cancelled Rides: $\text{22,530}$ (The count of rides canceled by the customer).
+- **Total Cancellations:** $\text{73,076}$ (Total count of rides canceled, both driver and customer).
+- **Driver-Cancelled Rides:** $\text{45,416}$ (Represents $\text{62.15\%}$ of all cancellations, making it the primary cause of lost revenue).
+- **Customer-Cancelled Rides:** $\text{22,530}$ (The count of rides canceled by the customer).
 
 **⭐ Service Quality Metrics:**
-- Overall Driver Rating: $\text{4.30}$
-- Overall Customer Rating: $\text{4.01}$
+- **Overall Driver Rating:** $\text{4.30}$
+- **Overall Customer Rating:** $\text{4.01}$
 ---
