@@ -100,4 +100,4 @@ OLA-Rider-Retention-Strategy/
 - **Customer and Driver Ratings Distribution**
 - **Cancellation Reason Heatmaps (Customer vs. Driver)**
 
-![OLA Performance Dashboard](images/dashboard.png)
+![OLA Performance Dashboard]<img width="1796" height="724" alt="Image" src="https://github.com/user-attachments/assets/461b8b77-3a3f-49bd-aac1-2b419480566e" />
