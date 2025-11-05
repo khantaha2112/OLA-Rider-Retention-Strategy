@@ -94,7 +94,7 @@ OLA-Rider-Retention-Strategy/
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- **📊Power BI Dashboard shows:**
+**📊Power BI Dashboard shows:**
 - **Ride Volume and Status (Success/Cancellation)**
 - **Total Revenue and Payment Method Breakdown**
 - **Customer and Driver Ratings Distribution**
