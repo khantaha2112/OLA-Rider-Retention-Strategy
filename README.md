@@ -100,4 +100,14 @@ OLA-Rider-Retention-Strategy/
 - **Customer and Driver Ratings Distribution**
 - **Cancellation Reason Heatmaps (Customer vs. Driver)**
 
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+
+- **Incentivize Drivers** in high-cancellation zones to improve availability and reduce $\text{Driver-Cancelled}$ rides.
+- **Implement Dynamic Pricing** strategies during peak demand periods (weekends, rush hours) to maximize revenue and match supply.
+- **Enhance App Communication** to provide customers with clear and immediate driver status updates to reduce $\text{Customer-Cancelled}$ rides.
+- **Develop a Driver Quality Program** to address low $\text{Customer Ratings}$ and target specific feedback (e.g., professionalism, vehicle cleanliness).
+- **Target Top-Spending Customers** with loyalty rewards and exclusive offers to improve overall rider retention.
+
+---
+
 
