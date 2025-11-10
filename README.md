@@ -35,10 +35,9 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 
 ---
 
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+<h2><a class="anchor" id="dataset"></a>Dataset Used</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
-- Summary table created from ingested data and used for analysis
+- <a href="
 
 ---
 <h2><a class="anchor" id="🔎Key Analytical Areas Addressed by the OLA Project"></a>Key Analytical Areas </h2>
