@@ -34,6 +34,13 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 - **ISub-optimal Fleet Performance:** Lack of clarity on which vehicle types (e.g., Mini, Sedan, Prime) are most profitable or efficient prevents optimized resource allocation and pricing.
 
 ---
+
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
+- Summary table created from ingested data and used for analysis
+
+---
 <h2><a class="anchor" id="🔎Key Analytical Areas Addressed by the OLA Project"></a>Key Analytical Areas </h2>
 
 High cancellation rates (both customer and driver-initiated) and inconsistent service quality directly impact OLA's revenue and market share. The analysis aims to address the following pain points::
