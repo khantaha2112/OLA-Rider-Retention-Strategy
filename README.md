@@ -47,12 +47,6 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 - **⭐ Ratings and Quality Analysis:** Comparing Customer and Driver ratings to diagnose service quality gaps and target specific areas for improvement.
 - **🌍 Geospatial & Time-Series Dependency:** Investigation of ride demand, cancellation spikes, and successful bookings across different geographic regions and time-based factors (e.g., peak hours, weekends, seasonal weather).
 ---
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
-
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
-- Summary table created from ingested data and used for analysis
-
----
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
