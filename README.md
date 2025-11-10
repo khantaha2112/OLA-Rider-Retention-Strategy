@@ -10,15 +10,14 @@ _Analyze ride-hailing data to understand key factors influencing booking success
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
-- <a href="#tools--technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
-- <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-eda">Key Analytical Areas</a>
-- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#tKey Analytical Areas">Tools & Technologies</a>
+- <a href="#Dataset">Project Structure</a>
+- <a href="#Tools & Technologies">Data Cleaning & Preparation</a>
+- <a href="#Project Structure">Key Analytical Areas</a>
+- <a href="#Core Metrics & Status">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">Data Flow & Linkage</a>
+- <a href="#Final Recommendations">Data Flow & Linkage</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
